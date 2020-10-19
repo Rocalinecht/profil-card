@@ -1,6 +1,6 @@
-## Profil card
+# Profil card
 
 Profil card with hover effect
 
-# Aperçu
+## Aperçu
  Le lien est [ici](http://profil_card.surge.sh/)
